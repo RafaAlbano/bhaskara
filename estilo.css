@@ -1,0 +1,44 @@
+@charset "UTF-8";
+main{
+    background-color: #B0C4DE;
+    border: 10px solid black;
+    border-radius: 10px;
+    width: 40%; 
+    height: 50vh;
+    padding: 20px;
+}
+.botão{
+    background-color: white;
+    padding: 15px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    width: 60%;
+    text-align: center;
+    
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+input{
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.valores{
+    text-align: center;
+    
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
